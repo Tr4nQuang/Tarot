@@ -652,7 +652,7 @@ def draw_card_screen_function():
 # Conclusion made by AI
 client = OpenAI(
     # defaults to os.environ.get("OPENAI_API_KEY")
-    api_key="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",
+    api_key="Add your OpenAI API key here",
 )
 
 def chat_gpt(prompt):
