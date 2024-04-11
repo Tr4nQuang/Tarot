@@ -1,1 +1,1 @@
-#Tarot cards reader
+Tarot cards reader
