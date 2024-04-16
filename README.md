@@ -8,3 +8,8 @@ Press Window + R -> Type: cmd -> Enter
   
   Pygame_GUI: pip install pygame-gui
 
+------------------------
+
+Download: Font, Image and Pygame.py
+
+Then put them into the same folder
