@@ -20,4 +20,8 @@ Get API key:
 
 Open: https://openai.com/ -> Login -> Then select API -> API keys -> Create new secret key -> COPY KEY
 
-Open file Pygame.py -> 
+Open file Pygame.py -> Line 655 -> Paste your API key
+
+------------------------
+
+DONE!!!!
